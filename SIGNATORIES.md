@@ -16,7 +16,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions.
 
 | Name | Country | What they build | Link |
 |---|---|---|---|
-| [Your Name] | [Your Country] | [Your Project] | [Optional] |
+| ET-ERNITY | Netherlands | Building Trustless Sovereign Ingestion (TSI) — a cryptographic protocol for provable IP priority and controlled disclosure between small innovators and large incumbents; the mechanism this manifesto cites as the answer to its own IP-protection gap (Section 4) | |
 
 ---
 
