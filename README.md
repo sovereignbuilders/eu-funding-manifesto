@@ -18,7 +18,7 @@ This repository is the collective demand to change that.
 
 ## The Document
 
-**[Architecting a Leverage-Native Ecosystem](./whitepaper.md)**  
+**[Architecting a Leverage-Native Ecosystem](./WHITEPAPER.md)**  
 A structured policy framework identifying four structural impasses in EU innovation funding and the precise amendments required to fix them — timed to the active FP10 negotiation window (2026).
 
 ---
